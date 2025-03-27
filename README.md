@@ -1,4 +1,4 @@
-# SISEMA DE GESTÃO UNIVERSITÁRIO
+# SISTEMA DE GESTÃO UNIVERSITÁRIO
 
 Programa para gestão acadêmica onde serão cadastrados os alunos, os professores, os cursos e as disciplinas com todas as informações necessárias.
 
